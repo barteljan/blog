@@ -1,1 +1,3 @@
-## Just some developer thoughts
+## Welcome, it's quite empty here 
+
+content will follow
